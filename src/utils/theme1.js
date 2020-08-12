@@ -10,7 +10,7 @@ const LAYOUT = [
     moved: false,
     static: false,
     value:
-      "![avatar](https://github.com/guanpengchn/Figure/raw/master/resume-avatar-1.jpg)",
+      "![avatar](/Users/admin/IdeaProjects/markdown-resume/myphoto/me001_whiteBG_lyx.jpg)",
     origin:
       '<section><p><img src="https://github.com/guanpengchn/Figure/raw/master/resume-avatar-1.jpg" alt="avatar"></p>\n</section>'
   },
